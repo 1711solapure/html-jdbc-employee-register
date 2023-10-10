@@ -6,7 +6,7 @@ This repository hosts a web application for employee registration built using HT
 2.Table name is employee_jsp1
 3.Containing columns (int) id, (varchar) name,(BigInt) phone,(varchar) address,(varchar) email,(varchar )password
 
-# Steps to create repository
+# Steps to create maven project
 1.Create new maven project (does not select simple project) click next
 2.filter: org.apache.maven (let it load the versions)
 3.select artifact id as “maven-archetype-webapp” version 1.4 click next
